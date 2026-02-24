@@ -1,0 +1,10 @@
+🎂
+duni's Cakes
+PANEL DE GESTIÓN
+Iniciar Sesión
+Registrarse
+
+
+Iniciar Sesión
+⏳ Conectando con Supabase…
+🔐 Tus datos están protegidos con Supabase
